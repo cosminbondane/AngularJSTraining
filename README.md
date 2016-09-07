@@ -1,7 +1,7 @@
 # AngularJSTraining
 AngularJSTraining
 
-Endpoints to consume
+Create a simple angular applications that consume the following endpoints
 
 http://jsonplaceholder.typicode.com/
 
