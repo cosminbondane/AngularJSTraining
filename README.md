@@ -1,10 +1,10 @@
 # AngularJSTraining
 AngularJSTraining
 
-Create a simple angular applications that consume the following endpoints
+Create a simple angular applications that gets the albums and displays photos.
 
-http://jsonplaceholder.typicode.com/
+Get albums endpoint: http://jsonplaceholder.typicode.com/albums
+Get album photos endpoint: http://jsonplaceholder.typicode.com/albums/album_id/photos
 
-http://jsonplaceholder.typicode.com/posts
 
 
